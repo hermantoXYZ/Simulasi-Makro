@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Selamat Datang",
+    "section": "",
+    "text": "Dokumentasi Simple\nIni adalah contoh dokumentasi sederhana dengan Quarto.\nGunakan menu di atas untuk navigasi."
+  },
+  {
+    "objectID": "cara-pakai.html",
+    "href": "cara-pakai.html",
+    "title": "Cara Pakai",
+    "section": "",
+    "text": "Cara Pakai\nPanduan singkat cara menggunakan website ini:\n\nPilih menu di atas untuk navigasi.\nBaca dokumentasi pada setiap halaman.\nIkuti instruksi yang tersedia untuk simulasi atau penggunaan fitur lain."
+  }
+]
