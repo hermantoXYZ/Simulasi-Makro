@@ -1,5 +1,27 @@
-# Preface {.unnumbered}
+## Welcome {.unnumbered}
 
-This is a Quarto book.
+::: {.callout-note}
+This website is under construction and will be regularly updated and extended.
+:::
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Website ini dibuat untuk platform opensource terkait **Simulasi Makro Ekonomi** Website ini dikembangkan oleh Dosen Bisnis Digital Universitas Negeri Makassar [Andi Hermanto](https://andihermanto.id) Merupakan Lulus S2 Magister Ekonomi Pembangunan dan Perencanaan Universitas Hasanuddin
+
+## Project team
+
+::: {.column}
+![Andi Hermanto](andi_hermanto.jpeg){width=60%}
+
+[Andi Hermanto](https://andihermanto.id/) Saat ini fokus dalam pengembangan Ekonomi Simulation dengan kosentrasi penelitian terkait Economic Finance and Development Finance
+:::
+
+## Contact
+We welcome any feedback. If you encounter any issues, find typos or mistakes, or have questions/thoughts on the content, please do get in touch.
+
+1. If you are Github user, you can [report an issue](https://github.com/hermantoXYZ/Simulasi-Makro#) in our repository  
+2. You can also email us directly: `a.hermanto@unm.ac.id`
+
+## Acknowledgements
+
+This project is developed by lecturers from the Faculty of Economics and Business, Universitas Negeri Makassar (FEB UNM), in collaboration with international researchers.  
+
+All errors are ours.

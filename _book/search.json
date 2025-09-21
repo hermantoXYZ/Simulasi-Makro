@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Simulasi Makro",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Welcome\nWebsite ini dibuat untuk platform opensource terkait Simulasi Makro Ekonomi Website ini dikembangkan oleh Dosen Bisnis Digital Universitas Negeri Makassar Andi Hermanto Merupakan Lulus S2 Magister Ekonomi Pembangunan dan Perencanaan Universitas Hasanuddin",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
@@ -37,6 +37,56 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Simulasi Makro",
+    "section": "",
+    "text": "Note\n\n\n\nThis website is under construction and will be regularly updated and extended.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#project-team",
+    "href": "index.html#project-team",
+    "title": "Simulasi Makro",
+    "section": "Project team",
+    "text": "Project team\n\n\n\n\nAndi Hermanto\n\n\nAndi Hermanto Saat ini fokus dalam pengembangan Ekonomi Simulation dengan kosentrasi penelitian terkait Economic Finance and Development Finance",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Simulasi Makro",
+    "section": "Contact",
+    "text": "Contact\nWe welcome any feedback. If you encounter any issues, find typos or mistakes, or have questions/thoughts on the content, please do get in touch.\n\nIf you are Github user, you can report an issue in our repository\n\nYou can also email us directly: a.hermanto@unm.ac.id",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Simulasi Makro",
+    "section": "License",
+    "text": "License\nThe material on this page is licensed under CC BY-NC 4.0, thus feel free to use the material for non-commercial purposes but please give credit.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Simulasi Makro",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis project is developed by lecturers from the Faculty of Economics and Business, Universitas Negeri Makassar (FEB UNM), in collaboration with international researchers.\nAll errors are ours.",
+    "crumbs": [
+      "Welcome"
     ]
   }
 ]
