@@ -2,15 +2,81 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Selamat Datang",
+    "title": "Simulasi Makro",
     "section": "",
-    "text": "Dokumentasi Simple\nIni adalah contoh dokumentasi sederhana dengan Quarto.\nGunakan menu di atas untuk navigasi."
+    "text": "Welcome\nWebsite ini dibuat untuk platform opensource terkait Simulasi Makro Ekonomi Website ini dikembangkan oleh Dosen Bisnis Digital Universitas Negeri Makassar Andi Hermanto Merupakan Lulus S2 Magister Ekonomi Pembangunan dan Perencanaan Universitas Hasanuddin",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
-    "objectID": "cara-pakai.html",
-    "href": "cara-pakai.html",
-    "title": "Cara Pakai",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Simulasi Makro",
     "section": "",
-    "text": "Cara Pakai\nPanduan singkat cara menggunakan website ini:\n\nPilih menu di atas untuk navigasi.\nBaca dokumentasi pada setiap halaman.\nIkuti instruksi yang tersedia untuk simulasi atau penggunaan fitur lain."
+    "text": "Note\n\n\n\nThis website is under construction and will be regularly updated and extended.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#project-team",
+    "href": "index.html#project-team",
+    "title": "Simulasi Makro",
+    "section": "Project team",
+    "text": "Project team\n\n\n\n\nAndi Hermanto\n\n\nAndi Hermanto Saat ini fokus dalam pengembangan Ekonomi Simulation dengan kosentrasi penelitian terkait Economic Finance and Development Finance",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Simulasi Makro",
+    "section": "Contact",
+    "text": "Contact\nWe welcome any feedback. If you encounter any issues, find typos or mistakes, or have questions/thoughts on the content, please do get in touch.\n\nIf you are Github user, you can report an issue in our repository\n\nYou can also email us directly: a.hermanto@unm.ac.id",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Simulasi Makro",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis project is developed by lecturers from the Faculty of Economics and Business, Universitas Negeri Makassar (FEB UNM), in collaboration with international researchers.\nAll errors are ours.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]
