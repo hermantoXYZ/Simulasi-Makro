@@ -1,0 +1,107 @@
+---
+title: "Kurva IS dan LM"
+description: "Penjelasan konsep dan simulasi Kurva IS-LM dalam makroekonomi."
+format:
+  revealjs:
+    incremental: true   
+    code-block-height: 650px
+    scroll-view: true
+    multiplex: true
+    slide-tone: true
+    progress: false
+    history: true
+    chalkboard: true
+
+---
+
+###  Opening
+```{.python code-line-numbers="1-8"}
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+# Kurva IS dan LM
+
+Kurva **IS** (Investment-Saving) dan **LM** (Liquidity preference-Money supply) adalah dua kurva penting dalam analisis makroekonomi yang menggambarkan keseimbangan di pasar barang dan pasar uang.
+
+# Kurva IS
+
+Kurva IS menunjukkan kombinasi tingkat suku bunga dan pendapatan di mana pasar barang berada dalam keseimbangan (investasi = tabungan).
+
+**Persamaan dasar IS:**
+$$
+Y = C(Y - T) + I(r) + G
+$$
+
+- $Y$: Pendapatan nasional  
+- $C$: Konsumsi  
+- $T$: Pajak  
+- $I$: Investasi  
+- $r$: Suku bunga  
+- $G$: Pengeluaran pemerintah
+
+# Kurva LM
+
+Kurva LM menunjukkan kombinasi tingkat suku bunga dan pendapatan di mana pasar uang berada dalam keseimbangan (permintaan uang = penawaran uang).
+
+**Persamaan dasar LM:**
+$$
+M/P = L(Y, r)
+$$
+
+- $M$: Jumlah uang beredar  
+- $P$: Tingkat harga  
+- $L$: Permintaan uang (fungsi dari $Y$ dan $r$)
+
+# Keseimbangan IS-LM
+
+Titik potong antara kurva IS dan LM menunjukkan keseimbangan simultan di pasar barang dan pasar uang, menentukan tingkat pendapatan ($Y$) dan suku bunga ($r$) keseimbangan.
+
+# Simulasi Sederhana
+
+Misalkan parameter berikut:
+- $C = 100 + 0.8(Y - T)$
+- $I = 150 - 10r$
+- $G = 200$
+- $T = 100$
+- $M/P = 500$
+- $L = 0.5Y - 20r$
+
+Silakan lakukan simulasi dengan mengganti nilai $G$, $T$, atau $M$ untuk melihat dampaknya terhadap keseimbangan IS-LM.
+
+# Code Baru
+alt.Chart(cars).mark_point().encode(
+    x='Horsepower',
+    y='Miles_per_Gallon',
+    color='Origin',
+).properties(
+    width=700,
+    height=300
+).interactive()
+
+# Baru
+::: {.panel-tabset}
+
+### Tab A
+
+Content for `Tab A`
+
+### Tab B
+
+Content for `Tab B`
+
+:::
+
+
+# Referensi
+
+- Mankiw, N. G. (2016). *Macroeconomics*.
+- Blanchard, O. (2017). *Macroeconomics*.

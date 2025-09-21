@@ -1,5 +1,5 @@
 project:
-  type: book
+  type: website
   output-dir: _book
 execute:
   warning: false
@@ -24,7 +24,7 @@ book:
     - references.qmd
     - part: "Static Models"
       chapters:
-        - intro.qmd
+        - kurva-is-lm.qmd
     - part: "Dynamic Models"
       chapters:
         - intro.qmd
@@ -40,7 +40,7 @@ format:
   html:
     toc: true
     toc-depth: 5
-    number-depth: 1
+    number-depth: 2
     theme:
       dark: darkly
       light: cosmo
